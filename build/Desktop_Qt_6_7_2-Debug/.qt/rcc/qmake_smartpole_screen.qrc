@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/smartpole_screen">
+    <file alias="qmldir">/home/nhan/workspace/QT_PROJECT/smartpole_screen/build/Desktop_Qt_6_7_2-Debug/smartpole_screen/qmldir</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,167 @@
+{
+    "classes": [
+        {
+            "classInfos": [
+                {
+                    "name": "QML.Element",
+                    "value": "auto"
+                }
+            ],
+            "className": "SerialObserver",
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "pm25Value",
+                    "notify": "pm25ValueChanged",
+                    "read": "getPm25Value",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "float",
+                    "user": false,
+                    "write": "setPm25Value"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "name": "pm10Value",
+                    "notify": "pm10ValueChanged",
+                    "read": "getPm10Value",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "float",
+                    "user": false,
+                    "write": "setPm10Value"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 2,
+                    "name": "temparatureValue",
+                    "notify": "temparatureValueChanged",
+                    "read": "getTemparatureValue",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "float",
+                    "user": false,
+                    "write": "setTemparatureValue"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 3,
+                    "name": "humidityValue",
+                    "notify": "humidityValueChanged",
+                    "read": "getHumidityValue",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "float",
+                    "user": false,
+                    "write": "setHumidityValue"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 4,
+                    "name": "noiseValue",
+                    "notify": "noiseValueChanged",
+                    "read": "getNoiseValue",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "float",
+                    "user": false,
+                    "write": "setNoiseValue"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 5,
+                    "name": "atmValue",
+                    "notify": "atmValueChanged",
+                    "read": "getAtmValue",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "float",
+                    "user": false,
+                    "write": "setAtmValue"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 6,
+                    "name": "lightValue",
+                    "notify": "LightValueChanged",
+                    "read": "getLightValue",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "float",
+                    "user": false,
+                    "write": "setLightValue"
+                }
+            ],
+            "qualifiedClassName": "SerialObserver",
+            "signals": [
+                {
+                    "access": "public",
+                    "name": "pm25ValueChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "pm10ValueChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "temparatureValueChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "humidityValueChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "noiseValueChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "atmValueChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "LightValueChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "serialObserver.h",
+    "outputRevision": 68
+}

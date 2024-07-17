@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-76c2373e0c48c6b8565d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "smartpole_screen",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-a644c377294c0b23b786.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-4b4144c27b04215d1a1f.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-ba71b78a8bfaf39f279c.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-1faac35930332d387204.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appsmartpole_screen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appsmartpole_screen-Debug-85dc1a0fec0ef13dc9d9.json",
+					"name" : "appsmartpole_screen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appsmartpole_screen_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appsmartpole_screen_autogen-Debug-24bf9aecab197b987384.json",
+					"name" : "appsmartpole_screen_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appsmartpole_screen_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appsmartpole_screen_autogen_timestamp_deps-Debug-099d2087548eb25ead05.json",
+					"name" : "appsmartpole_screen_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appsmartpole_screen_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appsmartpole_screen_qmlimportscan-Debug-c7264b93c7f11bb44fbb.json",
+					"name" : "appsmartpole_screen_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appsmartpole_screen_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appsmartpole_screen_qmllint-Debug-97e98ee75af78cee7abd.json",
+					"name" : "appsmartpole_screen_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appsmartpole_screen_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appsmartpole_screen_qmllint_json-Debug-9c4e2e56f723c97585d5.json",
+					"name" : "appsmartpole_screen_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appsmartpole_screen_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appsmartpole_screen_qmllint_module-Debug-93cc840d24f690964f06.json",
+					"name" : "appsmartpole_screen_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appsmartpole_screen_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appsmartpole_screen_qmltyperegistration-Debug-456496af2e6cefdcefc7.json",
+					"name" : "appsmartpole_screen_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appsmartpole_screen_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appsmartpole_screen_tooling-Debug-9aa37b2a98481c0e2f76.json",
+					"name" : "appsmartpole_screen_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/nhan/workspace/QT_PROJECT/smartpole_screen/build/Desktop_Qt_6_7_2-Debug",
+		"source" : "/home/nhan/workspace/QT_PROJECT/smartpole_screen"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

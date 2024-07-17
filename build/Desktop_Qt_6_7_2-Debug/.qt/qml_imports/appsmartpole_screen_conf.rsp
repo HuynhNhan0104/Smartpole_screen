@@ -1,0 +1,14 @@
+-rootPath
+/home/nhan/workspace/QT_PROJECT/smartpole_screen
+-cmake-output
+-output-file
+/home/nhan/workspace/QT_PROJECT/smartpole_screen/build/Desktop_Qt_6_7_2-Debug/.qt/qml_imports/appsmartpole_screen_conf.cmake
+-importPath
+/home/nhan/workspace/QT_PROJECT/smartpole_screen/build/Desktop_Qt_6_7_2-Debug/smartpole_screen
+-importPath
+/home/nhan/workspace/QT_PROJECT/smartpole_screen/build/Desktop_Qt_6_7_2-Debug
+-importPath
+/opt/Qt/6.7.2/gcc_64/./qml
+-qrcFiles
+/home/nhan/workspace/QT_PROJECT/smartpole_screen/build/Desktop_Qt_6_7_2-Debug/.qt/rcc/qmake_smartpole_screen.qrc
+/home/nhan/workspace/QT_PROJECT/smartpole_screen/build/Desktop_Qt_6_7_2-Debug/.qt/rcc/appsmartpole_screen_raw_qml_0.qrc

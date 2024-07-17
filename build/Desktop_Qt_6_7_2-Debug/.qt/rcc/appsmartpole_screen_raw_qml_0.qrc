@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/smartpole_screen/">
+    <file alias="Main.qml">/home/nhan/workspace/QT_PROJECT/smartpole_screen/Main.qml</file>
+    <file alias="RadialBarProgress.qml">/home/nhan/workspace/QT_PROJECT/smartpole_screen/RadialBarProgress.qml</file>
+  </qresource>
+</RCC>
+

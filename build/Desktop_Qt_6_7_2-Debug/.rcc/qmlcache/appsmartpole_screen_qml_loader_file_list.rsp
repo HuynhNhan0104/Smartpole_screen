@@ -1,0 +1,6 @@
+--resource
+/home/nhan/workspace/QT_PROJECT/smartpole_screen/build/Desktop_Qt_6_7_2-Debug/.qt/rcc/qmake_smartpole_screen.qrc
+--resource
+/home/nhan/workspace/QT_PROJECT/smartpole_screen/build/Desktop_Qt_6_7_2-Debug/.qt/rcc/appsmartpole_screen_raw_qml_0.qrc
+/smartpole_screen/Main.qml
+/smartpole_screen/RadialBarProgress.qml

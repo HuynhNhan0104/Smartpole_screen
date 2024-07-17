@@ -1,0 +1,6 @@
+module smartpole_screen
+typeinfo appsmartpole_screen.qmltypes
+prefer :/smartpole_screen/
+Main 1.0 Main.qml
+RadialBarProgress 1.0 RadialBarProgress.qml
+

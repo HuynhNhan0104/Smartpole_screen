@@ -1,0 +1,13 @@
+--bare
+-I
+/home/nhan/workspace/QT_PROJECT/smartpole_screen/build/Desktop_Qt_6_7_2-Debug
+-I
+/opt/Qt/6.7.2/gcc_64/./qml
+--resource
+/home/nhan/workspace/QT_PROJECT/smartpole_screen/build/Desktop_Qt_6_7_2-Debug/.qt/rcc/qmake_smartpole_screen.qrc
+--resource
+/home/nhan/workspace/QT_PROJECT/smartpole_screen/build/Desktop_Qt_6_7_2-Debug/.qt/rcc/appsmartpole_screen_raw_qml_0.qrc
+/home/nhan/workspace/QT_PROJECT/smartpole_screen/Main.qml
+/home/nhan/workspace/QT_PROJECT/smartpole_screen/RadialBarProgress.qml
+--json
+/home/nhan/workspace/QT_PROJECT/smartpole_screen/build/Desktop_Qt_6_7_2-Debug/appsmartpole_screen_qmllint.json
